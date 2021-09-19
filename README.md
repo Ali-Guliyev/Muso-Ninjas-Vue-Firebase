@@ -1,19 +1,3 @@
 # muso-ninjas
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://user-images.githubusercontent.com/54935778/133939723-e76adbaa-3596-4c9c-a8fe-474477a0ba3b.png)
